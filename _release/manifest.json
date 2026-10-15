@@ -1,7 +1,7 @@
 {
-  "version": "5.4.0",
+  "version": "5.4.1",
   "file_count": 74,
-  "sha256": "f3ace994e91c5ef916bfd264291a095f85368c913534c848685177345afac17b",
+  "sha256": "05946ae91ffe959f83f886bc2300feb9c7853b0ba52aad1bf3486dda9876d60d",
   "parts": [
     {
       "name": "game-5.4.0.part01",
@@ -50,8 +50,8 @@
     },
     {
       "name": "game-5.4.0.part10",
-      "bytes": 3279937,
-      "sha256": "75a45e1fb402226fc1c48f74042e4a6b9f85ff367adb59c8b3e760ac0a2c55f0"
+      "bytes": 3292153,
+      "sha256": "d02835cda1762e28faaeb1c60c72463489e1e47495e09194b70bf68061d606b1"
     }
   ],
   "files": [
@@ -241,7 +241,7 @@
     },
     {
       "path": "build-info.js",
-      "sha256": "2cc96bb7b9566cf23cfdbe55cc11799aa7e814fad86a75e37c15aa88a0a5876e"
+      "sha256": "71c454930c3ae9f5face8eb0d49020ed3557c5fcd97a19fd7c37db0142323e16"
     },
     {
       "path": "engine/core.js",
@@ -341,7 +341,7 @@
     },
     {
       "path": "story/runtime.js",
-      "sha256": "aef9c2beb543e082cf24b59b115fe6c0656de5ac8924e1a2ced43ed47f6a9b98"
+      "sha256": "7ea64a72a3d06de820a674b637f71fba61e8971da8925930fb0b0031959f6e33"
     },
     {
       "path": "style.css",
@@ -349,7 +349,7 @@
     },
     {
       "path": "sw.js",
-      "sha256": "901d8d111cf270cc9736844582a29ba9a1402b3883839b32446f6d0aee41d761"
+      "sha256": "5caf0337b83a2a044ed12b3172637aff09eb74045de8f0c97945a21c4bed4220"
     }
   ]
 }
