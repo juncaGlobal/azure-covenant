@@ -1,0 +1,355 @@
+{
+  "version": "5.4.0",
+  "file_count": 74,
+  "sha256": "f3ace994e91c5ef916bfd264291a095f85368c913534c848685177345afac17b",
+  "parts": [
+    {
+      "name": "game-5.4.0.part01",
+      "bytes": 4194304,
+      "sha256": "b2f1e45c8d0825dcd779454d866d0bab2bd27414872d51aab2cb970b554b691c"
+    },
+    {
+      "name": "game-5.4.0.part02",
+      "bytes": 4194304,
+      "sha256": "193129c853ad12b5eef325def59b881da883149c868c6842f8bdd6ac3b9c4062"
+    },
+    {
+      "name": "game-5.4.0.part03",
+      "bytes": 4194304,
+      "sha256": "d54ed35c4a153d468156d6ff6defa20e1546fca928381057ee01a48dea3e2f9c"
+    },
+    {
+      "name": "game-5.4.0.part04",
+      "bytes": 4194304,
+      "sha256": "e058cf80605d1a161fd65261a274c913f2c931c5b54488aad04b9e53766616ea"
+    },
+    {
+      "name": "game-5.4.0.part05",
+      "bytes": 4194304,
+      "sha256": "dbe82ef38c8757ff2e69d3dfaa9e0e608a90a5d66da96a6ae7c91b01a6acc177"
+    },
+    {
+      "name": "game-5.4.0.part06",
+      "bytes": 4194304,
+      "sha256": "8f3b61cf45440df0c3f87fe4087ec9dad57f5382e5bf9a0b0023e689668008fe"
+    },
+    {
+      "name": "game-5.4.0.part07",
+      "bytes": 4194304,
+      "sha256": "bb8b42c4c766364e67ad6bfc575cba8814abee39e28e44536ed6dba005164b7d"
+    },
+    {
+      "name": "game-5.4.0.part08",
+      "bytes": 4194304,
+      "sha256": "0aad3bb7126f2d79d8244b1d8ff7fba828f046ebbb5624eb85fe45fe73b2bd2b"
+    },
+    {
+      "name": "game-5.4.0.part09",
+      "bytes": 4194304,
+      "sha256": "6f3e6b8dcbf0ccd63e2b44141daf4b149db0db016e2c47316f35b0a319e20a7c"
+    },
+    {
+      "name": "game-5.4.0.part10",
+      "bytes": 3279937,
+      "sha256": "75a45e1fb402226fc1c48f74042e4a6b9f85ff367adb59c8b3e760ac0a2c55f0"
+    }
+  ],
+  "files": [
+    {
+      "path": ".nojekyll",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "path": "app.js",
+      "sha256": "90556f68fd310c4ea7b0a6927c25fde13fdd7f51f6ae8ff792bff478741c3ec2"
+    },
+    {
+      "path": "assets/OFL-font-license.txt",
+      "sha256": "18aabf190848725e2576eefb5c29ba06aac1029d02132252a7f312eac2e50cf3"
+    },
+    {
+      "path": "assets/Three-MIT-LICENSE.txt",
+      "sha256": "8b378ebe60e2fe500158cb0ac71cb5e8b7d92953c2abcc63a0eb90499653b5bc"
+    },
+    {
+      "path": "assets/japanese.woff2",
+      "sha256": "5ae4b6b5f176a590babe96d6bb62ee8805f4ddf15877738eda807db1fa20f136"
+    },
+    {
+      "path": "assets/models/Barbarian.glb",
+      "sha256": "cefc311a0e10c7858b6141f5ada7e33268727564fb8ac1347aab97d000669cc6"
+    },
+    {
+      "path": "assets/models/KayKit-LICENSE.txt",
+      "sha256": "ae322141814056dda0deea7540d74c41d87aee1da319977cd1bd84ee5a923629"
+    },
+    {
+      "path": "assets/models/KayKit-README.md",
+      "sha256": "ad13df6a5b31102f870d3165db796a641b8c1d93599547a84bb4575c8536c7f8"
+    },
+    {
+      "path": "assets/models/Knight.glb",
+      "sha256": "60428e3abc09ba83e595d256e3af8c5c976b46cdae599f0802fc82b4a3445168"
+    },
+    {
+      "path": "assets/models/Mage.glb",
+      "sha256": "cf898585da33fab50c724d31605fb931eb2912e6d2280092141e98ca81ad507d"
+    },
+    {
+      "path": "assets/models/Rogue.glb",
+      "sha256": "e825437cd4d2ee9c1960b517a74a69101e33eb409ae7fa8cedc7134a998fbb7d"
+    },
+    {
+      "path": "assets/story/GeneralUser-LICENSE.txt",
+      "sha256": "7b32efefdf95ce38a043799f0659853ddc00fbaa14d8c50f0aca16b9b8b405be"
+    },
+    {
+      "path": "assets/story/battle-theme.mp3",
+      "sha256": "4e655ceda79950511532072350e88cc54085b52332ee50731982b184a34e0c5e"
+    },
+    {
+      "path": "assets/story/boss-theme.mp3",
+      "sha256": "27967b8a7404a222cb31bc3e971bc125cbc0d6d9e8bbf6cefae31c9a279c8148"
+    },
+    {
+      "path": "assets/story/camp-theme.mp3",
+      "sha256": "f1bef6f067c3e9b0c6cea8f4a312392973fb9c89d74a6285b4e5861907d39138"
+    },
+    {
+      "path": "assets/story/dungeon-theme.mp3",
+      "sha256": "b4ee0fb2e2dcbe3a73f50e4b390557273ef8588fe7cf230839d48e0b68e9bae8"
+    },
+    {
+      "path": "assets/story/faces-fantasy-v2.png",
+      "sha256": "34330bc450faaa8fb8fa5942c3cbefd013d78a252e3df224f32d7049818e5f3f"
+    },
+    {
+      "path": "assets/story/faces-modern-v2.png",
+      "sha256": "bcad2bb719e939dadfbab14bf628d10de9844601b989f1cbed1603042a300bdd"
+    },
+    {
+      "path": "assets/story/fall.png",
+      "sha256": "ed309475c9db9934d1450fbe8575a814985382cf85905024a1b1c6be0bde37a9"
+    },
+    {
+      "path": "assets/story/field-theme.mp3",
+      "sha256": "81e2c70c27423a3a89a495c31efb32c6b40e95e01f24be4be747e82626fdd650"
+    },
+    {
+      "path": "assets/story/harbor.png",
+      "sha256": "1007ad8d37d1041bc9d2c29341deee0f15644124977434b6d8237baee110afb2"
+    },
+    {
+      "path": "assets/story/meeting.png",
+      "sha256": "9174858c4ead30323502be8e114e507e8b392ddd90e8444dd91502974f73a450"
+    },
+    {
+      "path": "assets/story/modern-cast.png",
+      "sha256": "7dab81a60f0d33331c013fefd2886874bac0b8741d40099e820c9cee538894d0"
+    },
+    {
+      "path": "assets/story/monster-bat.png",
+      "sha256": "45fe4b13e1559c75e0cc853f6a9b60a95f57b0d5589f1d017e59e69558099429"
+    },
+    {
+      "path": "assets/story/monster-boar.png",
+      "sha256": "0b459eb188e06d3865e064d4184478e3104d601451413510db86d9a27ce3979c"
+    },
+    {
+      "path": "assets/story/monster-drake.png",
+      "sha256": "90dbffe53f6945fe16f2a6bf5fe0c40db2ede46749bd381e0b5ebc30998002ec"
+    },
+    {
+      "path": "assets/story/monster-fireorb.png",
+      "sha256": "ec86b97dcff3e1273ab0803dceff3065ab1838b158d2822b44eaf13650cadc41"
+    },
+    {
+      "path": "assets/story/monster-gel.png",
+      "sha256": "0b99d9719561109473f1bdd4af20e318a416da629f1646e241196f8470a1bbe2"
+    },
+    {
+      "path": "assets/story/monster-golem.png",
+      "sha256": "8a81ce3b76ffa8098099c112fa544d7663545af6a54759e22e5564ac70ced548"
+    },
+    {
+      "path": "assets/story/monster-griffin.png",
+      "sha256": "31e644018a1a45cca282d71f61f4246f241e2fb19deabb3ff0a63a6a54b0a247"
+    },
+    {
+      "path": "assets/story/monster-iceorb.png",
+      "sha256": "e771427b35bba68b54dc994f9d183977f41629b7ea1897f095c56b4f8fc51b9c"
+    },
+    {
+      "path": "assets/story/monster-salamander.png",
+      "sha256": "bedb4b3a9867b50a71a5d080660376dd86f6d80c827011b5df80ded2b21f61b3"
+    },
+    {
+      "path": "assets/story/monster-skeleton.png",
+      "sha256": "3d75e5d07ace6f3e3b5e734cec0e65d2e09a399f67d1bf2e89f1ff4773b7fdd6"
+    },
+    {
+      "path": "assets/story/monster-spider.png",
+      "sha256": "f2bb7c867f1ca7a05934e3844d8935545f404545c41972554a0c90a4a9a48324"
+    },
+    {
+      "path": "assets/story/monster-starling.png",
+      "sha256": "43739a792d0afa8d98a9e87e277d03b52427de8a9c2032cdc22d3b08662b1fbc"
+    },
+    {
+      "path": "assets/story/monster-treant.png",
+      "sha256": "177676a135e21f31f6f279c1cc563cae3bdffc9c825e53438f0e1b119557ebea"
+    },
+    {
+      "path": "assets/story/opening-keyart.png",
+      "sha256": "764a0d4d6bceb68ff1ccc45f1037d5487b3434c2d622ba3d176d8c60631962d1"
+    },
+    {
+      "path": "assets/story/opening-theme.mp3",
+      "sha256": "92a965ac384cb68ea2d689792a99453f7da56b478acdc79b2e83457cd08751e2"
+    },
+    {
+      "path": "assets/story/portraits.png",
+      "sha256": "0b125c40406430bf797dd53537982e120d9ca39fc342be4a912424feed210e2a"
+    },
+    {
+      "path": "assets/story/race-automaton.png",
+      "sha256": "f8e5b4ad27524731fb5eb94211be39ce400ab4887bd78566e98c8b861dc0f976"
+    },
+    {
+      "path": "assets/story/race-cat.png",
+      "sha256": "fcf7d23c1dcdaa3f91fc507cef4c88ef19065f5ad8f71649dfdb972a1a3ff4cd"
+    },
+    {
+      "path": "assets/story/race-dragonkin.png",
+      "sha256": "20a1fa26d6cdcc4c5d255d8454f3e86e0524250ad0aab00557d41860dee4e8ff"
+    },
+    {
+      "path": "assets/story/race-rabbit.png",
+      "sha256": "618fe97c67388d2bfa7c6566d5ad4f897a2d686de889642004769043546e1952"
+    },
+    {
+      "path": "assets/story/royal-theme.mp3",
+      "sha256": "4c5cbc71d85b128ca38b3c69d34bb5d343d7a18409af13edab5303571c4a7ec4"
+    },
+    {
+      "path": "assets/story/transfer.png",
+      "sha256": "811380d14a8bb64d2c6ea536f47e643ce3b2740b057c245c318611e3ddcb2c19"
+    },
+    {
+      "path": "assets/story/victory-theme.mp3",
+      "sha256": "18cb63dd6cd36d5175cca0f7a13f72822308751079087be51bb4b9c5135aad5f"
+    },
+    {
+      "path": "build-info.js",
+      "sha256": "2cc96bb7b9566cf23cfdbe55cc11799aa7e814fad86a75e37c15aa88a0a5876e"
+    },
+    {
+      "path": "engine/core.js",
+      "sha256": "49aa1558a1955c3cb9daed5e1954b6c1f4f80c7f88bbeb7248b07cc46b23a3c5"
+    },
+    {
+      "path": "engine/rpg.js",
+      "sha256": "3b58dbc33b03201cddf3446ee5ed44b758059304f9ea0206505f60c34a2a3920"
+    },
+    {
+      "path": "index.html",
+      "sha256": "dabcb293142d78a38fce92c7c2768d87fb179e5b849ab9a9da2d6b1845cf556b"
+    },
+    {
+      "path": "manifest.webmanifest",
+      "sha256": "511812c25c2d27d21aa55f938fa5beb72919908a68b73a4c2e861054b60c507a"
+    },
+    {
+      "path": "mobile/app.css",
+      "sha256": "a1d0f03d6d5f4724f9386b91b8070a069f023bc87ff06ad7961fe26b876d684d"
+    },
+    {
+      "path": "mobile/app.js",
+      "sha256": "8204cf752af1ced5e086e031c332c0310fa717e7c17b9fbe84d870e33c65ba22"
+    },
+    {
+      "path": "mobile/battle.css",
+      "sha256": "f346fc987a1090968ab4a6f0087988eca713148b8c982e73e581ca7d8e6836e1"
+    },
+    {
+      "path": "mobile/icon-192.png",
+      "sha256": "5b8325a55fcca74b30ae75c6deacd61312b966f7c80b169568eb403a74451a8a"
+    },
+    {
+      "path": "mobile/icon-512.png",
+      "sha256": "508f70baebf20a2d1a6882233db1e6a8ec88909faed3521b22a3b2cdec05eb9a"
+    },
+    {
+      "path": "mobile/icon-maskable.png",
+      "sha256": "508f70baebf20a2d1a6882233db1e6a8ec88909faed3521b22a3b2cdec05eb9a"
+    },
+    {
+      "path": "mobile/icon.svg",
+      "sha256": "8cac62620312691815f95a0621cc44d05d48c2a9b1c5c299c9a534711d2a9e65"
+    },
+    {
+      "path": "mobile/input.js",
+      "sha256": "78f0cf292c34b3f07bca813a0ac7660cc61f6a3348a1cbe2cf5af030f36cd97f"
+    },
+    {
+      "path": "mobile/pace.js",
+      "sha256": "b5b5f21f26249dcb24352e2fc01485d17b994be9e0a5a9a8b4f1ca297e7ea515"
+    },
+    {
+      "path": "mobile/quality.css",
+      "sha256": "3b6fc5e8e4c7aa9414575cd85e4094e8359fbfb4803b2a87e52803d9ba32ff0e"
+    },
+    {
+      "path": "mobile/story.css",
+      "sha256": "18822c1a119491ce68e9976e4ff89401c83148876740c59b086311728501abcf"
+    },
+    {
+      "path": "render.js",
+      "sha256": "448a601707769fc9c4fdbb91243290d8a475bf7e16f6aced3dcaf82edfd8d6af"
+    },
+    {
+      "path": "story/audio.js",
+      "sha256": "bf787be90c1b5ce9d1cc9aaa6d9ba526e35cbbb40524a01834efde9e8519d385"
+    },
+    {
+      "path": "story/bonds.js",
+      "sha256": "044511b304a9471761e6f46b35b96300e036238443ef6194219cb9e68fbb135c"
+    },
+    {
+      "path": "story/campaign.js",
+      "sha256": "43d4d1cc8081e0e30c8d5fb9e02e6dfbd7c00b6ddd8d67e1b1013f3c1fcfd52b"
+    },
+    {
+      "path": "story/data.js",
+      "sha256": "b4903d95f25f387dbe261a0c98fe3601701861b7dd1f91b5b19fb5f5485f4855"
+    },
+    {
+      "path": "story/explore.js",
+      "sha256": "92e4ad7fb0f5fbd92d28c4530be6f30d4c2cdee5cd0f87a38cf36fb1a6dbc567"
+    },
+    {
+      "path": "story/opening-score.js",
+      "sha256": "57cc45857ddc6a7ba79fdf1ec8f431b1bdcad7bf3dcb09d6caf4133345fa76c2"
+    },
+    {
+      "path": "story/progression.js",
+      "sha256": "74bd32154929e9e8e40e286d53044d8faaf0b59cd18970ef3f07bfcc1a79b126"
+    },
+    {
+      "path": "story/rpg-ui.js",
+      "sha256": "65014f74ec302489222f56d9914061eafc86fb005794eb5970e0298ef6e152dd"
+    },
+    {
+      "path": "story/runtime.js",
+      "sha256": "aef9c2beb543e082cf24b59b115fe6c0656de5ac8924e1a2ced43ed47f6a9b98"
+    },
+    {
+      "path": "style.css",
+      "sha256": "c804918ded184229cf6c69789b6036b66a6727453d600eaecf2d672502e97c00"
+    },
+    {
+      "path": "sw.js",
+      "sha256": "901d8d111cf270cc9736844582a29ba9a1402b3883839b32446f6d0aee41d761"
+    }
+  ]
+}
