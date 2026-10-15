@@ -1,7 +1,7 @@
 {
-  "version": "5.4.2",
+  "version": "5.4.3",
   "file_count": 74,
-  "sha256": "48736993f373ff706d0145d19caa3d40c123c2ee6ff1b3a1bfb50c53f88127f8",
+  "sha256": "29ca3391cdd632917bc38c6202f8b947e0e811c4eabca4ac04af824ad066cb99",
   "parts": [
     {
       "name": "game-5.4.0.part01",
@@ -50,8 +50,8 @@
     },
     {
       "name": "game-5.4.0.part10",
-      "bytes": 3298973,
-      "sha256": "59f7647e37c5a8189f37e9997b39e48004935497c32f3e24003a6a1bc21abdc1"
+      "bytes": 3316506,
+      "sha256": "3e2312f3664758cd3dfe2c9c2e78ee8dfa72da20aae0b24ee79abcf5954e99a1"
     }
   ],
   "files": [
@@ -241,7 +241,7 @@
     },
     {
       "path": "build-info.js",
-      "sha256": "b7ab6d46ac949c1971b0d339bd16a869c8d40df33ca5a84350af074487dc5087"
+      "sha256": "8850951def8fd225350d76409fd9318f156c1fb807ae47e1c5ffa3e1373e30c8"
     },
     {
       "path": "engine/core.js",
@@ -253,7 +253,7 @@
     },
     {
       "path": "index.html",
-      "sha256": "aec5dd4dac2845d3242a976656e51c96a38d0978f89a605046acc87392b79e99"
+      "sha256": "9b02a645c45024f7a70ecf75f612bb36a0bff41245a8c14ae2c51754ad12f17a"
     },
     {
       "path": "manifest.webmanifest",
@@ -341,7 +341,7 @@
     },
     {
       "path": "story/runtime.js",
-      "sha256": "7ea64a72a3d06de820a674b637f71fba61e8971da8925930fb0b0031959f6e33"
+      "sha256": "031df42be907856e36b7bd106b2ba9ecdb0eaaf46b05bd2dc2428c76363cf55c"
     },
     {
       "path": "style.css",
@@ -349,7 +349,7 @@
     },
     {
       "path": "sw.js",
-      "sha256": "c62f093cc817f21377bd2ddf53610a993492f5521295b6d7f385d02148c0efcb"
+      "sha256": "a5dabc919058baa4a4aa535fd0eb990901e7aff0228dff829ecd704abd022efa"
     }
   ]
 }
